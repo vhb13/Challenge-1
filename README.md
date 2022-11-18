@@ -1,6 +1,6 @@
 # Challenge 1 - Code Refactor
 ## Description
-The original codebase The original codebase provided by client has been refactored to follow accessibility standards and for the site to be optimized for search engines as per the <a href=./Assets/01-html-css-git-challenge-demo.png>model</a>. Please refer to <a href=./starter/Horiseon-refactored.html>Horiseon HTML File</a> and <a href=./starter/assets/css/style.css>style.css</a>
+The original codebase The original codebase provided by client has been refactored to follow accessibility standards and for the site to be optimized for search engines as per this [model](./Assets/01-html-css-git-challenge-demo.png). Please refer to [Horiseon HTML File](./starter/Horiseon-refactored.html) and the [CSS file](./starter/assets/css/style.css).
 ## Installation
 Please ensure that when running the HTML file, the style.css file location is as per line 8 of the HTML codebase. 
 ## Usage
