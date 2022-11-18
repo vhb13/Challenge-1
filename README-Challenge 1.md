@@ -1,6 +1,6 @@
 # Challenge 1 - Code Refactor
 ## Description
-The original codebase (Horiseon-refactord.html and asset/css/style.css) provided by client has been refactored to follow accessibility standards and for the site to be optimized for search engines.
+The original codebase (Horiseon-refactored.html and .asset/css/style.css) provided by client has been refactored to follow accessibility standards and for the site to be optimized for search engines.
 ## Installation
 Please ensure that when running the HTML file, the style.css file location is as per line 8 of the HTML codebase. 
 ## Usage
